@@ -1,0 +1,58 @@
+// Paleta de cores da empresa
+$primary-base: #a64baa;
+$primary-lighten5: #ffd4ff;
+$primary-lighten4: #ffb7ff;
+$primary-lighten3: #fd9bff;
+$primary-lighten2: #df80e2;
+$primary-lighten1: #c265c5;
+$primary-darken1: #8a308f;
+$primary-darken2: #6f1175;
+$primary-darken3: #55005c;
+$primary-darken4: #3b0044;
+
+$secondary-base: #424242;
+$secondary-lighten5: #c1c1c1;
+$secondary-lighten4: #a6a6a6;
+$secondary-lighten3: #8b8b8b;
+$secondary-lighten2: #727272;
+$secondary-lighten1: #595959;
+$secondary-darken1: #2c2c2c;
+$secondary-darken2: #171717;
+$secondary-darken3: #000000;
+$secondary-darken4: #000000;
+
+$accent-base: #82b1ff;
+$accent-lighten5: #ffffff;
+$accent-lighten4: #f8ffff;
+$accent-lighten3: #daffff;
+$accent-lighten2: #bce8ff;
+$accent-lighten1: #9fccff;
+$accent-darken1: #6596e2;
+$accent-darken2: #467dc6;
+$accent-darken3: #2364aa;
+$accent-darken4: #004c90;
+
+// Cores adicionais
+$error-base: #ff5252;
+$info-base: #2196f3;
+
+// Variáveis derivadas
+$primary-color: $primary-base;
+$primary-color-light: $primary-lighten1;
+$primary-color-dark: $primary-darken1;
+
+$secondary-color: $secondary-base;
+$secondary-color-light: $secondary-lighten1;
+$secondary-color-dark: $secondary-darken1;
+
+$background-color: #ffffff; // Fundo branco
+$text-color: #333333; // Cor do texto principal
+$text-color-light: #ffffff; // Texto claro
+
+$link-color: $primary-base; // Cor dos links
+
+// Fonte padrão
+$font-family: 'Roboto', sans-serif;
+
+// Outros
+$border-radius: 4px;
